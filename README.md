@@ -1,4 +1,4 @@
-____# Gestor de Contratos de Alquiler (Sistema de Gestión por Consola)
+# Gestor de Contratos de Alquiler (Sistema de Gestión por Consola)
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
