@@ -50,7 +50,7 @@ Este es un sistema de gestión de alquileres por consola desarrollado en Java ut
     Abre tu terminal (o la terminal de tu IDE) y ejecuta los siguientes comandos para clonar el proyecto y navegar a su directorio:
 
     ```bash
-    git clone [https://github.com/Sebaacostamont/GestorAlquileresJava](https://github.com/Sebaacostamont/GestorAlquileresJava)
+    git clone https://github.com/Sebaacostamont/GestorAlquileresJava.git
     cd GestorAlquileresJava
     ```
 
