@@ -1,9 +1,21 @@
-# Gestor de Contratos de Alquiler (Sistema de Gestión por Consola)
+____# Gestor de Contratos de Alquiler (Sistema de Gestión por Consola)
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Console App Icon](https://img.shields.io/badge/Type-Console%20Application-blue)
+
+## 📚 Tabla de Contenidos
+
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Características Principales](#características-principales)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Cómo Compilar y Ejecutar](#cómo-compilar-y-ejecutar)
+- [Estructura de Directorios](#estructura-de-directorios)
+- [Estado del Proyecto](#estado-del-proyecto)
+- [Capturas de Pantalla](#capturas-de-pantalla)
+- [Autor](#autor)
+
 
 ## Descripción del Proyecto
 
@@ -50,3 +62,42 @@ Para ejecutar este proyecto, necesitas tener el JDK (Java Development Kit) insta
     ```bash
     java -jar target/GestorAlquileres-1.0-SNAPSHOT.jar
     ```
+
+## Estructura de Directorios
+
+```plaintext
+GestorAlquileresJava/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── Sebaacostam3/
+│   │   │           └── gestoralquileres/
+│   │   │               ├── app/
+│   │   │               ├── modelo/
+│   │   │               └── servicio/
+│   │   └── resources/
+│   └── test/
+│       └── java/
+```
+
+
+## Estado del Proyecto
+
+Funcional. Se encuentra en una fase estable con funcionalidades completas para gestión de alquileres por consola.  
+Próximamente: Integración de persistencia con base de datos (JDBC / JPA / Hibernate). Creación e integración de una GUI en JavaFX  
+Pendiente: Cobertura de pruebas unitarias con JUnit.
+
+## Capturas de Pantalla
+
+### Menú Principal
+![Menú Principal](./docs/console-menu.png)
+
+### Listado de Propiedades
+![Listado de Propiedades](./docs/console-propiedades.png)
+
+## Autor
+
+**Sebastian Esteban Acosta Montoya**  
+Estudiante de Ingeniería en Computación (UDELAR)  
+[GitHub](https://github.com/Sebaacostamont) | [LinkedIn](https://www.linkedin.com/in/sebastián-acosta-689945244)
