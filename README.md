@@ -100,4 +100,4 @@ Pendiente: Cobertura de pruebas unitarias con JUnit.
 
 **Sebastian Esteban Acosta Montoya**  
 Estudiante de Ingeniería en Computación (UDELAR)  
-[GitHub](https://github.com/Sebaacostamont) | [LinkedIn](https://www.linkedin.com/in/sebastián-acosta-689945244)
+[GitHub](https://github.com/Sebaacostamont) | [LinkedIn](www.linkedin.com/in/sebastian-acosta-mont)
