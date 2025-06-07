@@ -20,7 +20,7 @@ import java.util.Scanner;
  * con el sistema de gestión de alquileres. Permite realizar operaciones CRUD
  * sobre las diferentes entidades (Propiedades, Inquilinos, Contratos, Pagos, Incidencias).
  */
-public class ConsolaApp {
+public class Main {
 
     // Instancia del gestor de lógica de negocio
     private static GestorAlquileres gestor = new GestorAlquileres();
