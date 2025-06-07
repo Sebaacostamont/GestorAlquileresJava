@@ -42,27 +42,24 @@ Este es un sistema de gestión de alquileres por consola desarrollado en Java ut
 
 ## Cómo Compilar y Ejecutar
 
-Para ejecutar este proyecto, necesitas tener el JDK (Java Development Kit) instalado en tu sistema (versión 17 o superior recomendada) y Apache Maven (que suele venir integrado en IntelliJ IDEA).
+1.  **Prerrequisitos:**
+    * Asegúrate de tener instalado el **Java Development Kit (JDK) 11 o superior** en tu sistema.
+    * Un Entorno de Desarrollo Integrado (IDE) como IntelliJ IDEA, Apache NetBeans, Eclipse, o VS Code con las extensiones de Java adecuadas.
 
-1.  **Clonar el repositorio:**
+2.  **Clonar el Repositorio:**
+    Abre tu terminal (o la terminal de tu IDE) y ejecuta los siguientes comandos para clonar el proyecto y navegar a su directorio:
+
     ```bash
-    git clone https://github.com/Sebaacostamont/GestorAlquileresJava.git
+    git clone [https://github.com/Sebaacostamont/GestorAlquileresJava](https://github.com/Sebaacostamont/GestorAlquileresJava)
     cd GestorAlquileresJava
     ```
 
-2.  **Compilar y empaquetar el proyecto (usando Maven):**
-    Asegúrate de estar en el directorio raíz del proyecto donde se encuentra `pom.xml`.
-    ```bash
-    mvn clean install
-    ```
-    Este comando compilará el código, ejecutará las pruebas (Próximamente incluiré test unitarios con JUnit) y empaquetará la aplicación en un archivo JAR ejecutable dentro del directorio `target/`.
+3.  **Abrir y Ejecutar desde tu IDE:**
 
-3.  **Ejecutar la aplicación:**
-    Después de compilar, encontrarás el archivo JAR ejecutable en la carpeta `target/`. El nombre del archivo JAR será `GestorAlquileres-1.0-SNAPSHOT.jar` (o similar, dependiendo de la versión en tu `pom.xml`).
-    ```bash
-    java -jar target/GestorAlquileres-1.0-SNAPSHOT.jar
-    ```
-
+    * **Importar el Proyecto:** Abre tu IDE preferido (IntelliJ IDEA, NetBeans, Eclipse, etc.) e importa la carpeta clonada como un proyecto Maven. El IDE debería reconocer automáticamente el archivo `pom.xml` y configurar el proyecto.
+    * **Localizar la Clase Principal:** Navega hasta la clase principal de la aplicación, que se encuentra en la ruta:
+      `src/main/java/com/Sebaacostam3/gestoralquileres/app/Main.java`
+    * **Ejecutar la Aplicación:** Haz clic derecho sobre el archivo `Main.java` y selecciona "Run 'ConsolaApp.main()'" (o la opción equivalente en tu IDE). La aplicación de consola se iniciará en la ventana de terminal de tu IDE.
 ## Estructura de Directorios
 
 ```plaintext
