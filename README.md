@@ -1,11 +1,11 @@
-____# Gestor de Contratos de Alquiler (Sistema de Gestión por Consola)
+# Gestor de Contratos de Alquiler (Sistema de Gestión por Consola)
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Console App Icon](https://img.shields.io/badge/Type-Console%20Application-blue)
 
-## 📚 Tabla de Contenidos
+## Tabla de Contenidos
 
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Características Principales](#características-principales)
@@ -97,4 +97,4 @@ Pendiente: Cobertura de pruebas unitarias con JUnit.
 
 **Sebastian Esteban Acosta Montoya**  
 Estudiante de Ingeniería en Computación (UDELAR)  
-[GitHub](https://github.com/Sebaacostamont) | [LinkedIn](https://www.linkedin.com/in/sebastián-acosta-689945244)
+[GitHub](https://github.com/Sebaacostamont) | [LinkedIn](https://www.linkedin.com/in/sebastian-acosta-mont/)
